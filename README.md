@@ -97,14 +97,14 @@ The dashboard includes the following components:
 
 ## 🖼️ Dashboard Screenshots
 
-### Main Weather Overview
-![Weather Dashboard Overview](screenshots/Screenshot 2026-02-02 125749.png)
+### Main Weather Dashboard
+![Australian Weather Dashboard](screenshots/Screenshot%202026-02-02%20125749.png)
 
-### schema and data model
-![Forecast and AQI Section](screenshots/Screenshot 2026-02-02 144456.png)
+### schema and data models
+![Forecast and AQI Analysis](screenshots/Screenshot%202026-02-02%20144456.png)
+
 
 ---
-
 
 ## 🚀 Skills Demonstrated
 
